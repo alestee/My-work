@@ -1,0 +1,44 @@
+body { 
+    background-color: white;
+    align-items: center;
+    color:black; 
+    flex-direction: column; 
+    margin: 0; 
+
+}
+
+  form { 
+      box-shadow: 0 7px 10px rgba(rgb(175, 27, 27), green, blue, alpha);
+      max-width: 100%;
+      width: 200;
+      margin-left: 420px;
+      width: 400px;
+
+  }
+
+  h1{ 
+      font-size: 15rem;
+      text-align: center;
+  
+      color: rgb(rgb(177, 27, 27), green, blue);
+  }
+
+.input { 
+    border: none;
+    font-size: 1rem;
+    display: block;
+    width: 100%;
+    color: black;
+    padding: 1rem 2rem;
+    background-color: whitesmoke;
+
+   
+
+}
+
+.todos { 
+    background-color: lime;
+    padding: 0;
+    margin: 0;
+}
+
